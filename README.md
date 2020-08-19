@@ -41,7 +41,7 @@ Clone this repository from github.
 
 ```
 
-\$ git clone https://github.com/amita125/calculator.git
+git clone https://github.com/amita125/calculator.git
 
 ```
 
@@ -49,6 +49,4 @@ Clone this repository from github.
 
 This project used bootstrap.
 
-```
 
-```
