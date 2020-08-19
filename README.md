@@ -10,7 +10,8 @@ Calculator project allows the user to do simple arthemetic calculation i.e: Add 
 
 ## <a name="user-stories">User Stories</a>
 
-``As a user I would like to perform a simple arthemetic calculation [+, -, *, /] and expect the answer.
+```
+As a user I would like to perform a simple arthemetic calculation [+, -, *, /] and expect the answer.
 
 ```
 
@@ -47,4 +48,7 @@ Clone this repository from github.
 ## <a name="credits">Credits</a>
 
 This project used bootstrap.
+
+```
+
 ```
