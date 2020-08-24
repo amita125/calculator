@@ -35,6 +35,9 @@ As a user, I would like to calculate PI and square root of the current number.
 
 ## <a name="mockups">Mockups</a>
 
+Calculator with light theme
+<img src="https://github.com/amita125/starwars-project/blob/master/starwars/assets/img/loading.png" alt="loading" height="400" width="100%" />
+
 ## <a name="installation">Installation Instructions</a>
 
 Clone this repository from github.

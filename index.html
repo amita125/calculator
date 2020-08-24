@@ -12,8 +12,8 @@
         integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z"
         crossorigin="anonymous"
         />
-        <link rel="stylesheet" href="./style.css" type="text/css" />
-
+        <link rel="stylesheet" href="./assets/css/style.css" type="text/css" />
+        <link rel="stylesheet" href="./assets/css/responsive.css" type="text/css" />
         <!--  JavaScript -->
         <script
         src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
@@ -30,12 +30,86 @@
         integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
         crossorigin="anonymous"
         ></script>
-        <script src="./script.js"></script>
+        <script src="./assets/js/script.js"></script>
     </head>
 
     <body>
         <div class="container-fluid">
-            <h1>Calculator</h1>
+            <div class="calculator_main">
+                <div class="calculator_container" id="calculator_container1">
+                    <div class="container_top">
+                        <h3>Calculator</h3>
+                        <button type="button" onclick="day_night()" id="mybtn" value="light" class="theme-button btn btn-dark">
+                            <img src="./assets/img/moon.png" alt="moon" id="image"/>
+                        </button>
+                    </div>
+                    <div id="calculator">
+                        <div id="result">
+                            <div id="history">
+                                <p></p>
+                            </div>
+                            <div class="screen" id="screen">
+                                <p></p>
+                            </div>
+                        </div>
+                        <div class="showHis">
+                            <div class="pastCalculation">
+                                <div class="question" id="result-past"></div>
+                                <div class="row">
+                                    <button class="btn btn-success" id="back">Close</button>
+                                    <button class="btn btn-danger" id="delMemory">Clear</button>
+
+                                </div>
+                                
+                               
+                            </div>
+                        </div>
+                        
+                        <div id="keyboard">
+                            <div class="row">
+                                <button class="clear top" id="his">&#128354;</button>
+                                <button class="clear top" id="del">⇽</button>
+                            </div>
+
+                            <div class="row">
+                                <button class="clear top" id="clear">C</button>
+                                <button class="pii top" id="pii">&pi;</button>
+                                <button class="sqrt top" id="sqrt">√</button>
+                                <button class="number operator" id="/">&#247;</button>
+
+                            </div>
+                            <div class="row">
+                                <button class="number num" id="7">7</button>
+                                <button class="number num" id="8">8</button>
+                                <button class="number num" id="9">9</button>
+                                <button class="number operator" id="*">x</button>
+
+                            </div>
+                           <div class="row">
+                                <button class="number num" id="4">4</button>
+                                <button class="number num" id="5">5</button>
+                                <button class="number num" id="6">6</button>
+                                <button class="number operator" id="-">-</button>
+                           </div>
+                           <div class="row">
+                            <button class="number num" id="1">1</button>
+                            <button class="number num" id="2">2</button>
+                            <button class="number num" id="3">3</button>
+                            <button class="number operator" id="+">+</button>
+                           </div>
+                           <div class="row">
+                            <button class="empty" id="empty"></button>
+                            <button class="number num" id="0">0</button>
+                            <button class="number num" id=".">.</button>
+                            <button class="number operator" id="=">=</button>
+                           </div>
+                            
+                            
+                           
+                        </>
+                    </div>
+                </div>
+            </div>
         </div>
     </body>
 </html>
