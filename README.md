@@ -47,6 +47,9 @@ Past calculation
 Dark theme
 <img src="https://github.com/amita125/calculator/blob/master/assets/img/dark-mode.png" alt="dark-mode" height="400" width="100%" />
 
+Display E 
+<img src="https://github.com/amita125/calculator/blob/master/assets/img/edisplayed.png" alt="e" height="400" width="100%" />
+
 ## <a name="installation">Installation Instructions</a>
 
 Clone this repository from github.
