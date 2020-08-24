@@ -36,7 +36,16 @@ As a user, I would like to calculate PI and square root of the current number.
 ## <a name="mockups">Mockups</a>
 
 Calculator with light theme
-<img src="https://github.com/amita125/starwars-project/blob/master/starwars/assets/img/loading.png" alt="loading" height="400" width="100%" />
+<img src="https://github.com/amita125/calculator/blob/master/assets/img/calculator.png" alt="calculator" height="400" width="100%" />
+
+Calculation display
+<img src="https://github.com/amita125/calculator/blob/master/assets/img/calculation.png" alt="calculation" height="400" width="100%" />
+
+Past calculation 
+<img src="https://github.com/amita125/calculator/blob/master/assets/img/past-result.png" alt="past-result" height="400" width="100%" />
+
+Dark theme
+<img src="https://github.com/amita125/calculator/blob/master/assets/img/dark-mode.png" alt="dark-mode" height="400" width="100%" />
 
 ## <a name="installation">Installation Instructions</a>
 
