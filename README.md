@@ -63,7 +63,11 @@ git clone https://github.com/amita125/calculator.git
 ```
 npm install 
 ```
+## Test
 
+```
+npm test
+```
 ## <a name="credits">Credits</a>
 
 This project used bootstrap.
