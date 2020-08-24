@@ -75,6 +75,13 @@ npm install
 ```
 npm test
 ```
+
+## Further Iterations
+
+- Add the functionality to calculate complex scitific calculation similar to calculator
+- Create a universal calculator that calculates the BMI, simple or complex calculation based on the user chosen calculator
+- Perform a indept testing of the functionality and Dom manipulation.
+
 ## <a name="credits">Credits</a>
 
 This project used bootstrap.
