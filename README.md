@@ -13,7 +13,7 @@ A simple testing for the calculation is done using the Jest testing framework.
 
 **Tech Stack:** _JavaScript, Bootstrap, CSS, HTML, Jest_
 
-**Links:** [Deployed Application](https://amita125.github.io/calculator/) 
+**Links:** [Deployed Calculation Application](https://amita125.github.io/calculator/) 
 
 ## <a name="user-stories">User Stories</a>
 
