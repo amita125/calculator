@@ -4,9 +4,14 @@
 
 ## <a name="description">Description</a>
 
-Calculator project allows the user to do simple arthemetic calculation i.e: Add (+), Subtract (-), Multiply (\*) and divide(/)
+Calculator project allows the user to do simple arthemetic calculation i.e: Add (+), Subtract (-), Multiply (\*) and divide(/).User can calculate square root and cont pi.
 
-**Tech Stack:** _JavaScript, Bootstrap, CSS, HTML_
+You can view your past calculation and clear the memory with the functionality to delete the input if the number entered is wrong.
+
+A simple testing for the calculation is done using the Jest testing framework.
+
+
+**Tech Stack:** _JavaScript, Bootstrap, CSS, HTML, Jest_
 
 ## <a name="user-stories">User Stories</a>
 
