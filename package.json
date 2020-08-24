@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "[Description](#description) | [User Stories](#user-stories) | [Mockups](#mockups) | [Installation Instructions](#installation) | [Credits](#credits)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amita125/calculator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amita125/calculator/issues"
+  },
+  "homepage": "https://github.com/amita125/calculator#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
